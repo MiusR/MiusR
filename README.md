@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Mihai! <br>🌱 A second-year student at UBB FMI following the computer science course.<br>💬 Ask me about Java, C/C++ or Rust
+- Current Project : GPS-Analyzer
 
 # 🛠 Languages & Tools
 
